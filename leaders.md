@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Christian Vega](mailto:christian.vega@owasp.org)
+* [Carol Plata](mailto:carol.plata@owasp.org)
