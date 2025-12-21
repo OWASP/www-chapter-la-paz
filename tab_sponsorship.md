@@ -1,10 +1,12 @@
 ---
+
 title: Sponsorship
 displaytext: Como apoyarnos
-layout:  null
+layout: null
 tab: true
 order: 1
-tags: OWASP-LaPaz
+tags: la paz
+
 ---
 
 ## Chapter Supporters

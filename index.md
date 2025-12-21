@@ -38,7 +38,7 @@ Y lo realizamos a traves de actividades presenciales y virtuales como:
 <li>Proyectos de Estudios e Investigacion</li>
 <li>Observatorio de Estadisticas Globales y Locales</li>
 </ul>
-</p>
+
 </div>
 
 <p>Queremos contribuir para generar una concientizacion y conocimiento de las infinitas 
@@ -63,10 +63,9 @@ También lo alentamos a convertirse en miembro [become a member](/membership/)
 o considerar una donación [donation](/donate/) para apoyar nuestro trabajo en curso.
 Las contribuciones financieras solo deben realizarse en línea utilizando el botón de donación en línea autorizado.
 
-</div>
-
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
+
 {% include chapter_events.html group=page.meetup-group %}
 
 <!-- You should delete this comment
