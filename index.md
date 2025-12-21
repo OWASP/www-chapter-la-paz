@@ -13,7 +13,7 @@ meetup-group: Owasp La Paz Chapter
 ![OWASP La Paz](assets/images/owasp_portada.png?raw=true)
 
 <div style='color:black;'>
-Este capitulo de San Salvador tiene como objetivo divulgar y promover las buenas prácticas vertidas en el framework OWASP
+Este capitulo tiene como objetivo divulgar y promover las buenas prácticas vertidas en el framework OWASP
 que permitan reconocer, depurar, tratar, mitigar y prevenir las vulnerabilidades tecnicas que se generan en el desarrollo de soluciones
 computacionales como software, sistemas o aplicaciónes. Por lo tanto buscamos compartir conocimientos y experiencias sobre areas como:
 <ul>
@@ -46,7 +46,7 @@ vulnerabilidades informaticas que existen y surgen. Por lo cual si estas interes
 sobre el mundo de la seguridad en el ambito tecnologico eres bienvenido.
 </p>
 
-## Participacion
+## Participación
 <p style='color:black;text-align:justify;'>El Proyecto de Seguridad Mundial de Aplicaciones Abiertas (OWASP) es una fundación sin fines de lucro que 
 trabaja para mejorar la seguridad del software. Todos nuestros proyectos, herramientas, documentos, foros y capítulos son gratuitos y están abiertos
 a cualquier persona interesada en mejorar la seguridad de las aplicaciones.</p>
@@ -63,11 +63,12 @@ También lo alentamos a convertirse en miembro [become a member](/membership/)
 o considerar una donación [donation](/donate/) para apoyar nuestro trabajo en curso.
 Las contribuciones financieras solo deben realizarse en línea utilizando el botón de donación en línea autorizado.
 
-Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
+Siguientes eventos <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
 
 {% include chapter_events.html group=page.meetup-group %}
 
+[Ver próximos eventos en Meetup](https://www.meetup.com/owasp-la-paz-chapter/)
 <!-- You should delete this comment
 
 Standard Chapter Page Template
@@ -112,6 +113,6 @@ This separate file is where you should place links to your Google Group and Meet
 Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
 
 -->
-## Watch our past Talks
+## Eventos pasados
 
 * [OWASP La Paz YouTube Channel](https://www.youtube.com/@H4ckS0c13ty)
